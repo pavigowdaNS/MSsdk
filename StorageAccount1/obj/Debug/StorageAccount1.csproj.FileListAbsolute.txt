@@ -1,0 +1,15 @@
+c:\Users\AGSPL14\documents\visual studio 2015\Projects\MSsdk\StorageAccount1\bin\Debug\StorageAccount1.exe.config
+c:\Users\AGSPL14\documents\visual studio 2015\Projects\MSsdk\StorageAccount1\bin\Debug\StorageAccount1.exe
+c:\Users\AGSPL14\documents\visual studio 2015\Projects\MSsdk\StorageAccount1\bin\Debug\StorageAccount1.pdb
+c:\Users\AGSPL14\documents\visual studio 2015\Projects\MSsdk\StorageAccount1\bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+c:\Users\AGSPL14\documents\visual studio 2015\Projects\MSsdk\StorageAccount1\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+c:\Users\AGSPL14\documents\visual studio 2015\Projects\MSsdk\StorageAccount1\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+c:\Users\AGSPL14\documents\visual studio 2015\Projects\MSsdk\StorageAccount1\bin\Debug\Newtonsoft.Json.dll
+c:\Users\AGSPL14\documents\visual studio 2015\Projects\MSsdk\StorageAccount1\bin\Debug\Microsoft.Azure.KeyVault.Core.xml
+c:\Users\AGSPL14\documents\visual studio 2015\Projects\MSsdk\StorageAccount1\bin\Debug\Microsoft.WindowsAzure.Configuration.xml
+c:\Users\AGSPL14\documents\visual studio 2015\Projects\MSsdk\StorageAccount1\bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+c:\Users\AGSPL14\documents\visual studio 2015\Projects\MSsdk\StorageAccount1\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+c:\Users\AGSPL14\documents\visual studio 2015\Projects\MSsdk\StorageAccount1\bin\Debug\Newtonsoft.Json.xml
+c:\Users\AGSPL14\documents\visual studio 2015\Projects\MSsdk\StorageAccount1\obj\Debug\StorageAccount1.csprojResolveAssemblyReference.cache
+c:\Users\AGSPL14\documents\visual studio 2015\Projects\MSsdk\StorageAccount1\obj\Debug\StorageAccount1.exe
+c:\Users\AGSPL14\documents\visual studio 2015\Projects\MSsdk\StorageAccount1\obj\Debug\StorageAccount1.pdb

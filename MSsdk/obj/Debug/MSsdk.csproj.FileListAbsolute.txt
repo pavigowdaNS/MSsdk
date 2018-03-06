@@ -1,0 +1,5 @@
+c:\Users\AGSPL14\documents\visual studio 2015\Projects\MSsdk\MSsdk\bin\Debug\MSsdk.dll
+c:\Users\AGSPL14\documents\visual studio 2015\Projects\MSsdk\MSsdk\bin\Debug\MSsdk.pdb
+c:\Users\AGSPL14\documents\visual studio 2015\Projects\MSsdk\MSsdk\obj\Debug\MSsdk.csprojResolveAssemblyReference.cache
+c:\Users\AGSPL14\documents\visual studio 2015\Projects\MSsdk\MSsdk\obj\Debug\MSsdk.dll
+c:\Users\AGSPL14\documents\visual studio 2015\Projects\MSsdk\MSsdk\obj\Debug\MSsdk.pdb
